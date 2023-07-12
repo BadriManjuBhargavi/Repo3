@@ -1,0 +1,8 @@
+C:\DAY3\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.exe.config
+C:\DAY3\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.exe
+C:\DAY3\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.pdb
+C:\DAY3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.AssemblyReference.cache
+C:\DAY3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.SuggestedBindingRedirects.cache
+C:\DAY3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.CoreCompileInputs.cache
+C:\DAY3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.exe
+C:\DAY3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.pdb

@@ -1,0 +1,3 @@
+C:\DAY3\practise3\practise3\obj\Debug\practise3.csproj.AssemblyReference.cache
+C:\DAY3\practise3\practise3\obj\Debug\practise3.csproj.SuggestedBindingRedirects.cache
+C:\DAY3\practise3\practise3\obj\Debug\practise3.csproj.CoreCompileInputs.cache

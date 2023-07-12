@@ -1,0 +1,8 @@
+C:\DAY3\Example2\Example2\bin\Debug\Example2.exe.config
+C:\DAY3\Example2\Example2\bin\Debug\Example2.exe
+C:\DAY3\Example2\Example2\bin\Debug\Example2.pdb
+C:\DAY3\Example2\Example2\obj\Debug\Example2.csproj.AssemblyReference.cache
+C:\DAY3\Example2\Example2\obj\Debug\Example2.csproj.SuggestedBindingRedirects.cache
+C:\DAY3\Example2\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+C:\DAY3\Example2\Example2\obj\Debug\Example2.exe
+C:\DAY3\Example2\Example2\obj\Debug\Example2.pdb
